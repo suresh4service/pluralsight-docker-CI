@@ -5,7 +5,7 @@
 #  dockerhub:
 #    branch: master
 #    commands:
-#      - $DOCKER_HUB_TRIGGER1
+#      - $DOCKER_HUB_TRIGGER
 
 test:
   override:    
